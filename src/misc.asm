@@ -19,3 +19,7 @@
 ; hide menubar gump
 @JMP 0x0047F7C3 0x0047F811
 @JMP 0x00484249 0x004852DA
+
+; hide party manifest scroll
+@JMP 0x004A5099 0x004A50CB
+@JMP 0x004A64D4 0x004A64F9 ; hides one click tooltip

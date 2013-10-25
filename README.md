@@ -13,6 +13,7 @@ Features currently implemented:
  * Guild button in paperdoll replaced with Chat button
  * Quests button in paperdoll replaced with Journal button
  * Hide in-game menu bar
+ * Hide party manifest scroll from paperdoll
 
 Contributing
 --------------------------------------------------------------------------------
