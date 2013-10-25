@@ -11,6 +11,7 @@ Features currently implemented:
  * Status gump has original look (with stat buttons)
  * Elf race is not selectable when creating a character
  * Guild button replaced with Chat button
+ * Hide in-game menu bar
 
 Contributing
 --------------------------------------------------------------------------------
