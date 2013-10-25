@@ -10,7 +10,8 @@ Features currently implemented:
 
  * Status gump has original look (with stat buttons)
  * Elf race is not selectable when creating a character
- * Guild button replaced with Chat button
+ * Guild button in paperdoll replaced with Chat button
+ * Quests button in paperdoll replaced with Journal button
  * Hide in-game menu bar
 
 Contributing
