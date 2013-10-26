@@ -12,7 +12,6 @@ Features currently implemented:
  * Elf race is not selectable when creating a character
  * Guild button in paperdoll replaced with Chat button
  * Quests button in paperdoll replaced with Journal button
- * Hide in-game menu bar
  * Hide party manifest scroll from paperdoll
 
 Contributing
