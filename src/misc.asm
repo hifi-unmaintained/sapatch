@@ -19,3 +19,6 @@
 ; hide party manifest scroll
 @JMP 0x004A5099 0x004A50CB
 @JMP 0x004A64D4 0x004A64F9 ; hides one click tooltip
+
+; hide headgear boxes from paperdoll
+@JMP 0x004A51A7 0x004A521D
