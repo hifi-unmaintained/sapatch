@@ -22,3 +22,6 @@
 
 ; hide headgear boxes from paperdoll
 @JMP 0x004A51A7 0x004A521D
+@CLEAR 0x004A63AE 0x90 0x004A63B3 ; disable tooltip on click
+@CLEAR 0x004A5F6B 0x90 0x004A6128 ; clear dragging code away
+@JMP 0x004A5F6B 0x004A6128 ; disable dragging of items (ok above already does this but this optimizes it by jumping)
