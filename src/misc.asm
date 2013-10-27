@@ -20,6 +20,10 @@
 @JMP 0x004A5099 0x004A50CB
 @JMP 0x004A64D4 0x004A64F9 ; hides one click tooltip
 
+; disable party chat hotkey
+@CLEAR 0x004F0E5E 0x90 0x004F1077
+@JMP 0x004F0E5E 0x004F1077
+
 ; hide headgear boxes from paperdoll
 @JMP 0x004A51A7 0x004A521D
 @CLEAR 0x004A63AE 0x90 0x004A63B3 ; disable tooltip on click
