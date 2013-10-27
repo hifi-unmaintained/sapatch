@@ -15,12 +15,13 @@
 ;
 
 @SETD 0x004A6BA4 0x802  ; classic gump id
+@SETD 0x004A6E60 0x00   ; set lock gump id to zero to hide it
 @SETB 0x004A6E8B 0x3D   ; str arrow Y
-@SETB 0x004A6E8D 0x26   ; str arrow X
+@SETB 0x004A6E8D 0x27   ; str arrow X
 @SETB 0x004A6EE3 0x49   ; dex arrow Y
-@SETB 0x004A6EE5 0x26   ; dex arrow X
+@SETB 0x004A6EE5 0x27   ; dex arrow X
 @SETD 0x004A6F3B 0x55   ; int arrow Y
-@SETB 0x004A6F40 0x26   ; int arrow X
+@SETB 0x004A6F40 0x27   ; int arrow X
 @SETD 0x004A6F9D 0x89   ; minimize bottom
 @SETD 0x004A6FA2 0x108  ; minimize right
 @SETD 0x004A6FA7 0x70   ; minimize top
