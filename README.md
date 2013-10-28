@@ -3,8 +3,9 @@ Ultima Online Second Age Client Patch
 This project tries to bring back some of the original playing experiences of T2A
 era to UO client **5.0.8** which is the client of choice for UOSA freeshard.
 
-To build, copy `client.exe` from the UO directory as `client.dat` and run
-`build.cmd` to compile a patched version.
+To build, copy `client.exe` from the UO directory as `client.dat`,
+`client_noenc.exe` as `client_noenc.dat` and run `build.cmd` to compile the
+patched version.
 
 Features currently implemented:
 
